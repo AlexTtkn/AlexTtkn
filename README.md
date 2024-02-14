@@ -31,15 +31,10 @@ I am looking for a job as a Java developer. Ready to participate in an interview
 
 <details>
 <summary>👨‍💻 My Coding Journey</summary>
-My name is Alex and I have worked as an electrician for many years. I was not passionate about technology and anything to do with computers.
-Despite the fact that my profession was not related to the IT industry, I came into contact with IT specialists because the company I worked for had equipment that required the automation of processes using various electronic devices. We often worked together and exchanged experiences in our common field of activity.
-
-Gradually, my interest in how these systems worked grew, and in my spare time I began to study programming languages and technologies.
-However, my job as an electrician did not give me the opportunity to develop in this area. 
+My name is Alex and I have worked as an electrician for many years. I was not passionate about technology and anything to do with computers. Despite the fact that my profession was not related to the IT industry, I came into contact with IT specialists because the company I worked for had equipment that required the automation of processes using various electronic devices. We often worked together and exchanged experiences in our common field of activity.
+Gradually my interest in how these systems worked grew and I began to study programming languages and technologies in my spare time. However, my job as an electrician did not give me the opportunity to develop in this area.
 
 Over time I realised that I wanted to work as a programmer and create new programs. I started learning Java and soon decided to retrain as a programmer.
 
-The motivation for my desire to become a programmer is that I want to create new programs and solve complex problems.
-I believe that my passion for technology and programming will help me succeed in this profession.
-As an electrician, I have worked in a team with other electricians, engineers and designers, and my experience will help me as a programmer, as I know the importance of communicating and working effectively with colleagues. I understand that software development is a collective process and I am willing to work towards a common goal.
+The motivation for my desire to become a programmer is that I want to create new programs and solve complex problems. I believe that my passion for technology and programming will help me succeed in this profession. As an electrician, I have worked in a team with other electricians, engineers and designers, and my experience will help me as a programmer because I know the importance of communicating and working effectively with colleagues. I understand that software development is a collective process and I am willing to work towards a common goal.
 </details>
