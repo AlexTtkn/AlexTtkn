@@ -22,7 +22,7 @@ I am looking for a job as a Java developer. Ready to participate in an interview
 
 --------------
 ### 🧰 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=AlexTtkn&repo=java-project-99)](https://github.com/AlexTtkn/java-project-99)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=AlexTtkn&repo=Task-Manager)](https://github.com/AlexTtkn/Task-Manager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=AlexTtkn&repo=Page-Analyzer)](https://github.com/AlexTtkn/Page-Analyzer)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=AlexTtkn&repo=Difference-Calculator)](https://github.com/AlexTtkn/Difference-Calculator)
